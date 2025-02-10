@@ -1,0 +1,26 @@
+{
+    "name": "readmemadeeasy",
+    "version": "1.0.0",
+    "description": "This is a simple ReadMe generator that will help you create a professional ReadMe file for your projects.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BMcBryde3/ReadMeMadeEasy.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/BMcBryde3/ReadMeMadeEasy/issues"
+    },
+    "homepage": "https://github.com/BMcBryde3/ReadMeMadeEasy#readme",
+    "dependencies": {
+      "colors": "^1.4.0",
+      "inquirer": "^12.3.3"
+    }
+  }
+  
