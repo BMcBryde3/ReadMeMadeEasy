@@ -28,6 +28,7 @@
 
   ## Tests 
   RUN NODE INDEX.JS IN YOUR CONSOLE, THEN SELECT CREATE NEW README IN THE CONSOLE/TERMINAL SCREEN. Follow and aswer the prompted questions and  when  finished a  new README file will be  crated in the O "outtput" folder.
+  Walkthrough: https://drive.google.com/file/d/1sJhVCiA-SHY3wwIiHIeGuuQQfni2aWWb/view?usp=drive_link
 
   ## License
   
